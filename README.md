@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dylancusk
 - 👀 I’m interested in hardware for science
-- 🌱 I’m currently learning machine learnign through fast.ai
+- 🌱 I’m currently learning machine learning through fast.ai
 - 💞️ I’m looking to collaborate on nanoscience research
-- 📫 How to reach me: dylancusk@gmail.com
+- 📫 How to reach me: dc820@cam.ac.uk
 
 <!---
 dylancusk/dylancusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
